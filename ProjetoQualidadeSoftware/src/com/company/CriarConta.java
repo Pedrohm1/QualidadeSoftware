@@ -11,6 +11,6 @@ public class CriarConta {
     {
         this.nome = nome;
         this.saldo = saldo;
-        this.nome = nome;
+        this.numeroConta = numeroConta;
     }
 }
